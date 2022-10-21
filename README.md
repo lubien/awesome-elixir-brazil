@@ -32,6 +32,7 @@ Uma lista de conteúdos para desenvolvedores Elixir brasileiros.
 - [Você, desenvolvedor!](https://www.youtube.com/channel/UCh-qOj_p5CY_AfuR7fEYbwA) - Vídeos sobre Elixir desde o básico.
 - [Lubien](https://www.youtube.com/channel/UCiLZ-Izuldhk-1YqWqWYMAA) - Vídeos e lives sobre Elixir LiveView.
 - [IdopterLabs](https://www.youtube.com/c/IdopterLabs) - Postagens sobre Elixir e Phoenix.
+- [Adolfo Neto](https://www.youtube.com/c/AdolfoNeto)
 
 ## Blogs
 
