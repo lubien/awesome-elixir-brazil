@@ -19,6 +19,7 @@ Uma lista de conteúdos para desenvolvedores Elixir brasileiros.
 - [Cursos](#cursos)
 - [Canais no YouTube](#canais-no-youtube)
 - [Blogs](#blogs)
+- [Livros](#livros)
 
 <!-- CONTENT -->
 
@@ -39,6 +40,10 @@ Uma lista de conteúdos para desenvolvedores Elixir brasileiros.
 ## Blogs
 
 - [IdopterLabs](https://medium.com/idopterlabs) - Postagens sobre Elixir e Phoenix.
+
+## Livros
+
+- [Elixir: Do zero à concorrência, Tiago Davi](https://www.casadocodigo.com.br/products/livro-elixir) - Único livro de Elixir em português mas que está bem desatualizado por usar a versão 1.3 de Elixir.
 
 <!-- END CONTENT -->
 
