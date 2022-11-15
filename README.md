@@ -25,6 +25,7 @@ Uma lista de conteúdos para desenvolvedores Elixir brasileiros.
 ## Cursos
 
 - [Elixir e Phoenix do zero! Crie sua primeira API Phoenix.](https://www.udemy.com/course/elixir-e-phoenix-do-zero/) - Aprenda Elixir criando um jogo e sua primeira API RESTful utilizando Phoenix com autenticação.
+- [ELX PRO](https://twitter.com/elx_pro) - Um curso de Elixir que vai do bśsico ao avançado. É ofertado em momentos específicos. Quem tem interesse tem que esperar uma turma abrir.  
 
 ## Canais no YouTube
 
