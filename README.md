@@ -19,6 +19,7 @@ Uma lista de conteúdos para desenvolvedores Elixir brasileiros.
 - [Cursos](#cursos)
 - [Canais no YouTube](#canais-no-youtube)
 - [Blogs](#blogs)
+- [Newsletters](#newsletters)
 - [Livros](#livros)
 
 <!-- CONTENT -->
@@ -40,6 +41,10 @@ Uma lista de conteúdos para desenvolvedores Elixir brasileiros.
 ## Blogs
 
 - [IdopterLabs](https://medium.com/idopterlabs) - Postagens sobre Elixir e Phoenix.
+
+## Newsletters
+
+- [Café com Elixir](https://semanal.cafecomelixir.com.br/) - Conteúdo relevante de elixir com foco na comunidade Brasileira.
 
 ## Livros
 
