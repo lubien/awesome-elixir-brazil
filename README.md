@@ -33,6 +33,7 @@ Uma lista de conteúdos para desenvolvedores Elixir brasileiros.
 - [Programação Funcional com Elixir](https://www.udemy.com/course/programacao-funcional-com-elixir/) - Esse curso visa mostrar aos alunos o que é a programação funcional e como ela funciona. Para isso usaremos a linguagem de programação Elixir que por sua vez é de fácil entendimento permitindo assim que o aprendizado sobre programação funcional seja ainda mais simples. O curso está dividido em 2 módulos no intuito de facilitar ainda mais o entendimento do assunto.
 - [Crie APIs GraphQL com Elixir e Absinthe](https://www.udemy.com/course/elixir-graphql/) - Aprenda a criar APIs GraphQL do jeito certo em Elixir construindo uma rede social!
 - [Elixir e programação funcional na prática](https://www.udemy.com/course/elixir-programacao-funcional-na-pratica/) - Aprenda Elixir enquanto resolve um problema real com Mix, Pattern matching, Guards, recursividade e muito mais.
+- [Adopt LiveView](https://adopt-liveview.lubien.dev) - Aprenda como usar Phoenix LiveView sem conhecimento prévio em Elixir ou Phoenix
 
 ## Canais no YouTube
 
